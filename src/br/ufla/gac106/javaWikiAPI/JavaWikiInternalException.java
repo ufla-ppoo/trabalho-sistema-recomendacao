@@ -1,4 +1,4 @@
-package br.ufla.gac106.JavaWikiAPI;
+package br.ufla.gac106.javaWikiAPI;
 
 /**
  * Classe utilizada para lançar exceções de problemas internos no código da JavaWikiAPI

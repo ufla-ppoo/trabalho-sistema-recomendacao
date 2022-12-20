@@ -1,4 +1,4 @@
-package br.ufla.gac106.JavaWikiAPI;
+package br.ufla.gac106.javaWikiAPI;
 
 /**
  * Exceção lançada quando uma requisição a uma Wiki não é bem-sucedida.
