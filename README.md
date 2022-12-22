@@ -63,10 +63,12 @@ Preencha os campos abaixo de acordo com as intruções dadas.
 | 2.2.4 | As classificações são salvas (persistidas)?                                 | (sim/não) |
 | 2.2.5 | No módulo de Avaliação, o usuário consegue ver os detalhes dos itens?       | (sim/não) |
 | 2.2.5 | Os detalhes incluem classificação média e comentários?                      | (sim/não) |
-| 2.2.6 | Foi implementado o módulo de relatórios, fazendo uso da classe Grafico?     | (sim/não) |
+| 2.2.6 | Foi implementado o módulo de relatórios?                                    | (sim/não) |
 | 2.2.6 | Relatório permite consulta da quantidade de itens classificados ou não?     | (sim/não) |
 | 2.2.6 | Relatório permite consulta dos 5 itens melhor classificados, de cada tipo?  | (sim/não) |
 | 2.2.6 | Relatório permite consulta dos 3 usuários que mais classificaram itens?     | (sim/não) |
+| 2.2.6 | Relatório permite consulta dos 3 usuários que mais comentaram itens?        | (sim/não) |
+| 2.2.6 | Relatório permite exibição do gráfico usando código fonercido?              | (sim/não) |
 | 3.1.3 | O código implementado tem bom design de classes?                   | (sim/não) |
 | 3.1.4 | O código implementado tem divisão de camadas?                      | (sim/não) |
 | 3.1.5 | O código faz uso de herança? Tem superclasse e subclasses?         | (sim/não) |
