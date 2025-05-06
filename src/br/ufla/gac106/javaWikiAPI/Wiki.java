@@ -5,8 +5,8 @@ import java.io.Closeable;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.net.MalformedURLException;
+import java.net.URI;
 import java.net.URISyntaxException;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -290,7 +290,7 @@ public class Wiki implements Closeable {
                     if (pagina.get("thumbnail") != null) {
                         String endereçoDaImagem = pagina.get("thumbnail").getAsJsonObject().get("source").getAsString();
                         try {
-                            imagem = ImageIO.read(new URL(endereçoDaImagem));
+                            imagem = ImageIO.read(URI.create(endereçoDaImagem).toURL());
                         }
                         catch (IOException e) {
                             if (debug) System.err.println("=> Wiki: Erro ao tentar obter imagem da página '" + pagina.get("title").getAsString() + "'. URL: " + endereçoDaImagem);
