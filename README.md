@@ -10,7 +10,7 @@ Preencha os campos abaixo de acordo com as intruções dadas.
 
 **Tema escolhido**: .. digite aqui..
 
-**Integrantes** (preencha abaixo):
+**Integrantes** (preencha abaixo, os nomes completos em ordem alfabética):
 
 - 
 - 
@@ -38,11 +38,10 @@ Preencha os campos abaixo de acordo com as intruções dadas.
 | 3.1.5 | O código faz uso de herança? Tem superclasse e subclasses?         | (sim/não) |
 | 3.1.6 | O código inicial fornecido pelo professor foi alterado?            | (sim/não) |
 | 3.1.7 | Como os itens são salvos?                                          | (arquivo texto? BD? Não são salvos?) |
-| 3.1.8 | Diagrama simplificado em PNG se encontra na pasta `doc`?           | (sim/não) |
-| 3.1.9 | Código enviado compila sem erros na versão 17 do Java?             | (sim/não) |
-| 3.1.9 | Implementação usa pacote `br.ufla.gac106.s2022_2.nomeDoGrupo`?     | (sim/não) |
-| 3.1.9 | Foi adicionada alguma biblioteca (arquivo `.jar`)?                 | (sim (qual?)/não) |
-| 3.1.9 | Código está legível, organizado e bem comentado?                   | (sim/não) |
+| 3.1.8 | Código enviado compila sem erros na versão 17 do Java?             | (sim/não) |
+| 3.1.8 | Implementação usa pacote `br.ufla.gac106.s2022_2.nomeDoGrupo`?     | (sim/não) |
+| 3.1.8 | Foi adicionada alguma biblioteca (arquivo `.jar`)?                 | (sim (qual?)/não) |
+| 3.1.8 | Código está legível, organizado e bem comentado?                   | (sim/não) |
 |       | Todos os integrantes contribuíram, inclusive na implementação?     | (sim/não (quais?)) |
 
 ## Checklist para a Entrega Final
@@ -53,7 +52,7 @@ Preencha os campos abaixo de acordo com as intruções dadas.
 
 |  Id   |  Descrição                                                                  | Respostas | 
 |-------|-----------------------------------------------------------------------------|-----------|
-| 2.1   | Sistema trata todos os itens do módulo de Administração (primeira entrega)? | (sim/não) |
+| 2.1   | Sistema trata todos os itens do módulo de Cadastro (primeira entrega)?      | (sim/não) |
 | 2.2.1 | É possível consultar a lista de itens cadastrados no módulo de Avaliação?   | (sim/não) |
 | 2.2.1 | A lista pode ser ordenada por nome e por classificação média?               | (sim/não) |
 | 2.2.2 | É possível filtrar os dados? Quais são os filtros?                          |           |
@@ -74,17 +73,18 @@ Preencha os campos abaixo de acordo com as intruções dadas.
 | 3.1.5 | O código faz uso de herança? Tem superclasse e subclasses?         | (sim/não) |
 | 3.1.6 | O código inicial fornecido pelo professor foi alterado?            | (sim/não) |
 | 3.1.7 | Como os itens são salvos?                                          | (arquivo texto? BD? Não são salvos?) |
-| 3.1.8 | Diagrama simplificado em PNG se encontra na pasta `doc`?           | (sim/não) |
-| 3.1.9 | Código enviado compila sem erros na versão 17 do Java?             | (sim/não) |
-| 3.1.9 | Implementação usa pacote `br.ufla.gac106.s2022_2.nomeDoGrupo`?     | (sim/não) |
-| 3.1.9 | Foi adicionada alguma biblioteca (arquivo `.jar`)?                 | (sim (qual?)/não) |
-| 3.1.9 | Código está legível, organizado e bem comentado?                   | (sim/não) |
-| 3.1.10| Código faz uso de variável polimórfica?                            | (sim/não) |
-| 3.1.10| Código faz uso de polimorfismo de método?                          | (sim/não) |
-| 3.1.11| Há tratamento de exceção para entradas inválidas do usuário?       | (sim/não) |
-| 3.1.11| Há tratamento de exceção para programa não fechar por erro de execução? | (sim/não) |
-| 3.1.11| Há tratamento de exceção para exceções lançadas pela classe Wiki?  | (sim/não) |
+| 3.1.8 | Código enviado compila sem erros na versão 17 do Java?             | (sim/não) |
+| 3.1.8 | Implementação usa pacote `br.ufla.gac106.s2022_2.nomeDoGrupo`?     | (sim/não) |
+| 3.1.8 | Foi adicionada alguma biblioteca (arquivo `.jar`)?                 | (sim (qual?)/não) |
+| 3.1.8 | Código está legível, organizado e bem comentado?                   | (sim/não) |
+| 3.1.9| Código faz uso de variável polimórfica?                            | (sim/não) |
+| 3.1.9| Código faz uso de polimorfismo de método?                          | (sim/não) |
+| 3.1.10| Há tratamento de exceção para entradas inválidas do usuário?       | (sim/não) |
+| 3.1.10| Há tratamento de exceção para programa não fechar por erro de execução? | (sim/não) |
+| 3.1.10| Há tratamento de exceção para exceções lançadas pela classe Wiki?  | (sim/não) |
+| 3.1.11| Diagrama simplificado em PNG se encontra na pasta `doc`?           | (sim/não) |
 | 3.1.12| Foi implementado algum Padrão de Projeto? Qual?                    | (sim (qual?)/não) |
 | 3.1.13| A interface de usuário é de fácil utilização?                      | (sim/não) |
 | 3.1.13| Foi implementada interface gráfica de usuário?                     | (sim/não) |
 |       | Todos os integrantes contribuíram, inclusive na implementação?     | (sim/não (quais?)) |
+
